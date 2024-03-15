@@ -1,0 +1,23 @@
+* {margin:0; padding:0;}
+.main_div{float:left; height:800px; width:1900px;}
+    .div_1{float:left; height:100px; width:1900px;}
+        .img_div{float:left; background-image: url('download (1).jpg'); background-size: 450px 100px;width: 450px; height: 100px; text-align: center;}
+        .itm_div{float:left; height:100px; width:1000px;}
+            .itm1_div{float:left; height:100px; width:250px; background-color:skyblue; font-size:40px; text-align: center;}
+            .itm2_div{float:left; height:100px; width:250px; background-color:yellow; font-size:30px; text-align: center;}
+            .itm3_div{float:left; height:100px; width:250px; background-color:lime; font-size:30px; text-align: center;}
+            .itm4_div{float:left; height:100px; width:250px; background-color:Aquamarine; font-size:24px; text-align: center;}
+        .devinfo{float:left; height:100px; width:450px; background-color:purple;text-align:center;}
+    .div_2{float:left; height:500px; width:1900px;}
+        .blnk_div{float:left; background-image: url('download (2).jfif'); background-size: 450px 500px; height:500px; width:450px; background-color:#33FFFC;}
+        .bimg_div{float:left; background-image: url('download.jpg'); background-size: 1000px 500px; width:1000px; height:500px; text-align:center; font-size:60px;}
+        .blnk2_div{float:left; background-image: url('images.jfif'); background-size: 450px 500px; height:500px; width:450px; background-color:#33FFFC;}
+    .div_3{float:left; height:400px; width:1900px;}
+        .lst_div{float:left; height:400px; width:450px; background-color:BlueViolet;}
+        .tbl_div{float:left; height:400px; width:1450px; background-color:violet;}
+            .table{ width: 100%; height:100%; border-collapse: collapse; border: 2px solid black;}    
+            .th{border: 2px solid black; text-align: center;}
+            .td{border: 2px solid black; text-align: center;}
+
+    .div_4{float:left; background-image: url('images (1).jfif');float:left; background-size: 950px 200px;height:200px; width:1900px; background-color:LemonChiffon;}
+    .button{padding:8px; background-color:Crimson;font-size:15px;}
